@@ -1,0 +1,55 @@
+table{
+background-color:#242530;
+text-align:center;
+border-radius:8px;
+border:none;
+border-collapse:collapse;
+}
+.screen{
+background-color:#242530;
+}
+.operators{
+background-color:#363746;
+color:white;
+}
+td{
+width:97.5px; height:97.5px;
+cursor: pointer;
+font-family:Inter;
+font-size:20px;
+font-weight:400;
+}
+.numbers{
+color:white;
+background-color:#2E2F3E;
+}
+#clear{
+border-top-left-radius:30px;
+color:white;
+}
+#equals{
+  background-color:#FFBB00;
+  color:white;
+}
+#yellow-op{
+color:#FFBB00;
+}
+.del{
+border-top-right-radius:30px;
+}
+.screen{
+text-align:right;
+vertical-align:bottom;
+font-family:poppins;
+padding-right:25px;
+}
+p{
+font-size:20px;
+color:#9A9A9A;
+font-weight:400;
+}
+h3{
+color:white;
+font-size:50px;
+font-weight:600;
+}
